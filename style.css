@@ -1,0 +1,45 @@
+@font-face {
+    font-family:"Roboto";
+    font-style: normal;
+    src: url("./fonts/Roboto-Black.ttf");
+}
+@font-face {
+    font-family: "Raleway";
+    font-style: normal;
+    src: url(./fonts/Raleway-VariableFont_wght.ttf);
+}
+body {
+    font-family:"Roboto";
+
+}
+.web {
+    font-size:36px;
+}
+h5 {
+    font-size: 16px;
+}
+p {
+    font-size: 16px;
+}
+h1 {
+    font-size: 44px;
+    line-height: 1.36;
+}
+button {
+    font-size: 16px;
+}
+.rex {
+    font-size: 14px;
+}
+.wel {
+    font-family: "Raleway" ;
+    font-weight: 700;
+    font-size: 26px;
+}
+h4 {
+    font-size: 14px;
+    font-weight: 700;
+} 
+h5 {
+    line-height:1.17;
+}
