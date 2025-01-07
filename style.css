@@ -1,51 +1,99 @@
 @font-face {
     font-family:"Roboto";
     font-style: normal;
+    font-weight: 900;
     src: url("./fonts/Roboto-Black.ttf");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    src:url(./fonts/Roboto-Bold.ttf) ;
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    src: url(./fonts/Roboto-Medium.ttf);
+
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    src: url(./fonts/Roboto-Regular.ttf);
 }
 @font-face {
     font-family: "Raleway";
     font-style: normal;
+    font: weight 700px; ;
     src: url(./fonts/Raleway-VariableFont_wght.ttf);
 }
 body {
     font-family:"Roboto";
 
 }
-.web {
-    font-size:36px;
-}
-h5 {
-    font-size: 16px;
-}
-p {
-    font-size: 16px;
-}
-h1 {
-    font-size: 44px;
-    line-height: 1.36;
-}
-button {
-    font-size: 16px;
-}
-.rex {
-    font-size: 14px;
-}
 .wel {
-    font-family: "Raleway" ;
+    font-family: "Raleway";
     font-weight: 700;
     font-size: 26px;
+    src: url(./fonts/Raleway-VariableFont_wght.ttf);
 }
-h4 {
-    font-size: 14px;
+h1 {
+    font-family: "Roboto";
+    font-weight: 900;
+    font-size: 44px ;
+    line-height: 1.36;
+    src: url(./fonts/Roboto-Black.ttf);
+}
+button {
+    font-family: "Roboto";
     font-weight: 700;
-} 
-h5 {
-    line-height:1.17;
+    font-size: 16px;
+    src: url(./fonts/Roboto-Bold.ttf);
 }
 .type {
+    font-family: "Roboto";
     font-weight: 700;
+    font-size: 14px;
+    src: url(./fonts/Roboto-Bold.ttf);
+}
+.bow {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    src: url(./fonts/Roboto-Regular.ttf);
+}
+.web {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 36px;
+    src: url(./fonts/Roboto-Bold.ttf);
+}
+.wed {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18.75px;
+    src: url(./fonts/Roboto-Medium.ttf);
+}
+.bos {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+    src: url(./fonts/Roboto-Medium.ttf);
+}
+.rex {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+    src: url(./fonts/Roboto-Medium.ttf);
 }
 .eww {
+    font-family: "Roboto";
+    font-weight: 500;
     font-size: 14px;
+    src: url(./fonts/Roboto-Medium.ttf);
+}
 }
