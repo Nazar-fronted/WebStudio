@@ -44,56 +44,55 @@ h1 {
     font-weight: 900;
     font-size: 44px ;
     line-height: 1.36;
-    src: url(./fonts/Roboto-Black.ttf);
+    
 }
 button {
     font-family: "Roboto";
     font-weight: 700;
     font-size: 16px;
-    src: url(./fonts/Roboto-Bold.ttf);
+    
 }
 .type {
     font-family: "Roboto";
     font-weight: 700;
     font-size: 14px;
-    src: url(./fonts/Roboto-Bold.ttf);
+    
 }
 .bow {
     font-family: "Roboto";
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    src: url(./fonts/Roboto-Regular.ttf);
+    
 }
 .web {
     font-family: "Roboto";
     font-weight: 700;
     font-size: 36px;
-    src: url(./fonts/Roboto-Bold.ttf);
+    
 }
 .wed {
     font-family: "Roboto";
     font-weight: 500;
     font-size: 16px;
     line-height: 18.75px;
-    src: url(./fonts/Roboto-Medium.ttf);
+    
 }
 .bos {
     font-family: "Roboto";
     font-weight: 500;
     font-size: 14px;
-    src: url(./fonts/Roboto-Medium.ttf);
+    
 }
 .rex {
     font-family: "Roboto";
     font-weight: 500;
     font-size: 14px;
-    src: url(./fonts/Roboto-Medium.ttf);
+    
 }
 .eww {
     font-family: "Roboto";
     font-weight: 500;
     font-size: 14px;
-    src: url(./fonts/Roboto-Medium.ttf);
-}
+    
 }
