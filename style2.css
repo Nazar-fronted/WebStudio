@@ -30,73 +30,54 @@
     src: url(./fonts/Raleway-VariableFont_wght.ttf);
 }
 body {
-    font-family:"Roboto" ;
-
+    font-family: "Roboto" ;
 }
 .logo {
     font-family: "Raleway";
     font-weight: 700;
     font-size: 26px;
     text-decoration: none;
-    
 }
-h1 {
-    font-family: "Roboto";
-    font-weight: 900;
-    font-size: 44px ;
-    line-height: 1.36;
+.team-link {
     
+    font-weight: 500;
+    font-size: 14px ;
+    text-decoration:none ;
+
 }
-button {
-    font-family: "Roboto";
-    font-weight: 700;
+.type-sub {
+   font-weight: 500;
+   font-size: 14px;
+   text-decoration: none;
+}
+.class-sub {
+    font-weight: 500;
     font-size: 16px;
-    
-}
-.li-title {
-    font-family: "Roboto";
-    font-weight: 700;
-    font-size: 14px;
-    
-}
-.li-text {
-    font-family: "Roboto";
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    
-}
-.team-title {
-    font-family: "Roboto";
-    font-weight: 700;
-    font-size: 36px;
-    
+    text-align: center;
 }
 .section-title {
-    font-family: "Roboto";
-    font-weight: 500;
+    font-weight: 700;
+    font-size: 18px;
+    line-height:2px;
+}
+.section-text {
+    font-weight: 400;
     font-size: 16px;
-    line-height: 18.75px;
-    
+    line-height: 1.8;
+    color: #757575;
 }
-.div-link {
-    font-family: "Roboto";
-    font-weight: 500;
-    font-size: 14px;
-    text-decoration: none;
-    
+.section-img {
+    width: 370px;
+    height: 294px;
 }
-.nav-link {
-    font-family: "Roboto";
-    font-weight: 500;
+.footer-address-sub {
+    font-weight: 400;
     font-size: 14px;
-    text-decoration: none;
-    
+    line-height: 1.7;
 }
-.footer-link {
-    font-family: "Roboto";
-    font-weight: 500;
+.address-sub {
+    font-weight: 400;
     font-size: 14px;
+    line-height: 1.7;
     text-decoration: none;
-    
 }
